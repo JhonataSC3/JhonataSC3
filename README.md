@@ -9,7 +9,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JhonataSC3&layout=pie)](https://github.com/JhonataSC3/github-readme-stats)
 
 ### tecnologias que uso no meu dia 
-
 <div style="display: inline_block">
   <br> <img alig="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 
@@ -18,9 +17,6 @@
    <img alig="center" alt="html5" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   </br>
 </div>
-
-
-
 
 CURSANDO 👨‍🎓:
 
