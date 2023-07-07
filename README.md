@@ -7,8 +7,8 @@
 CURSANDO 👨‍🎓:
   <li>
 💻 Ciencias da computação
-💻 Rocketseat one
   </li>
+  <li>💻 Rocketseat one</li>
 </div>
 
 ![JhonataSC3 GitHub stats](https://github-readme-stats.vercel.app/api?username=JhonataSC3&show_icons=true&theme=radical)
