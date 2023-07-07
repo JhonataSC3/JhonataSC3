@@ -5,8 +5,11 @@
 [![](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/zequinharj_)
 <div>
 CURSANDO 👨‍🎓:
+  <li>
 💻 Ciencias da computação
-💻 Rocketseat one</div>
+💻 Rocketseat one
+  </li>
+</div>
 
 ![JhonataSC3 GitHub stats](https://github-readme-stats.vercel.app/api?username=JhonataSC3&show_icons=true&theme=radical)
 
