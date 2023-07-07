@@ -23,5 +23,6 @@
 CURSANDO 👨‍🎓:
 
 💻 Ciencias da computação 
+
 💻 Rocketseat one 
 
