@@ -1,5 +1,5 @@
 
-### Olá! Eu me chamo Jhonata Coutinho e esse é meu perfil 🖥️
+### Olá! Eu me chamo Jhonata Coutinho bem-vindo ao meu perfil 🖥️
 
 [![Instagram profissional](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jhonatasc3/)
 [![](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/zequinharj_)
