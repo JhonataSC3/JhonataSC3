@@ -19,8 +19,9 @@
   </br>
 </div>
 
-<br>
+
 CURSANDO 👨‍🎓:
+
 💻 Ciencias da computação 
 💻 Rocketseat one 
-</br> 
+
