@@ -20,7 +20,7 @@
 </div>
 
 <br>
-### CURSANDO 👨‍🎓:
-- 💻 Ciencias da computação 
-- 💻 Rocketseat one 
+CURSANDO 👨‍🎓:
+💻 Ciencias da computação 
+💻 Rocketseat one 
 </br> 
