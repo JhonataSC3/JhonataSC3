@@ -8,7 +8,7 @@ CURSANDO 👨‍🎓:
   <li>
 💻 Ciencias da computação
   </li>
-  <li>💻 Rocketseat one</li>
+  <li>Junior Developer</li>
 </div>
 
 ### status:
