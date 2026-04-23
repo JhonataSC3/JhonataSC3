@@ -6,7 +6,7 @@
 <div>
 CURSANDO 👨‍🎓:
   <li>
-💻 Ciencias da computação
+💻 Eletronic Developer
   </li>
   <li>💻 Junior Developer</li>
 </div>
